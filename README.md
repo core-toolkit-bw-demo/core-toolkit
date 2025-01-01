@@ -1,4 +1,4 @@
-# TEMPLATE-PROJECT-NAME
+# Core Toolkit
 
 *[Description goes here]*
 
@@ -16,4 +16,4 @@
 
 ## License
 
-The `TEMPLATE-GEM-NAME` library is released under the [MIT License](MIT-License.txt).
+The `core_toolkit` library is released under the [MIT License](MIT-License.txt).
